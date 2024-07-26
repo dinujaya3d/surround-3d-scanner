@@ -1,0 +1,50 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\3D map\Project Outputs for 3D map\Pick Place for 3D map.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       13/04/24
+Time:       09:54
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer    Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                                            
+J6         B2B-XH-AM(LF)(SN)  TopLayer FP-B2B-XH-AM_LF_SN-MFG 4056.496      2963.701      0        "CONN HEADER VERT 2POS 2.5MM"                                                                                                                          
+U1         ATmega2560-16AU    TopLayer 100A_M                 5595.000      2295.000      90       "8-bit AVR Microcontroller, 4.5-5.5V, 16MHz, 256KB Flash, 4KB EEPROM, 8KB SRAM, 86 GPIO pins, 100-pin TQFP, Industrial Grade (-40°C to 85°C), Pb-Free" 
+C15        0805ZA220JAT2A     TopLayer CAPC2012X94N           4300.000      2715.000      90       Capacitor                                                                                                                                              
+C14        C1206C102GBGACTU   TopLayer C1206                  4129.055      2722.185      0        Capacitor                                                                                                                                              
+C12        0805ZA220JAT2A     TopLayer CAPC2012X94N           6045.000      2275.000      270      Capacitor                                                                                                                                              
+C6         0805ZA220JAT2A     TopLayer CAPC2012X94N           6045.000      2443.110      90       Capacitor                                                                                                                                              
+C5         0805ZA220JAT2A     TopLayer CAPC2012X94N           5005.000      2235.000      90       Capacitor                                                                                                                                              
+C13        VJ0805Y104JXXPW1BC TopLayer CAPC2012X90N           6273.110      1965.000      180      Capacitor                                                                                                                                              
+C11        VJ0805Y104JXXPW1BC TopLayer CAPC2012X90N           6050.000      1970.000      90       Capacitor                                                                                                                                              
+C10        VJ0805Y104JXXPW1BC TopLayer CAPC2012X90N           6050.000      2125.000      90       Capacitor                                                                                                                                              
+C9         VJ0805Y104JXXPW1BC TopLayer CAPC2012X90N           6040.000      2610.000      90       Capacitor                                                                                                                                              
+C8         VJ0805Y104JXXPW1BC TopLayer CAPC2012X90N           4995.000      2420.000      90       Capacitor                                                                                                                                              
+C7         VJ0805Y104JXXPW1BC TopLayer CAPC2012X90N           5110.000      2413.110      90       Capacitor                                                                                                                                              
+C4         VJ0805Y104JXXPW1BC TopLayer CAPC2012X90N           4980.000      2995.000      180      Capacitor                                                                                                                                              
+C3         VJ0805Y104JXXPW1BC TopLayer CAPC2012X90N           5110.000      2240.000      90       Capacitor                                                                                                                                              
+C2         VJ0805Y104JXXPW1BC TopLayer CAPC2012X90N           4770.000      1745.000      180      Capacitor                                                                                                                                              
+C1         VJ0805Y104JXXPW1BC TopLayer CAPC2012X90N           4961.890      1745.000      180      Capacitor                                                                                                                                              
+Y1         LFXTAL027946Reel   TopLayer LFXTAL027946Reel       6285.000      2382.008      90       "Crystal or Oscillator"                                                                                                                                
+U2         CH340C             TopLayer SOIC127P600X180-16N    4800.000      1993.268      270      "USB to serial chip CH340"                                                                                                                             
+S1         B3F-1000           TopLayer B3F1002                6010.000      1760.000      0        Switch                                                                                                                                                 
+R8         CMP0805AFX-1002ELF TopLayer RESC2012X60N           6285.000      1850.000      180      Resistor                                                                                                                                               
+R5         CMP0805AFX-1002ELF TopLayer RESC2012X60N           4530.000      2840.000      0        Resistor                                                                                                                                               
+R4         ERA-6APB222V       TopLayer ERA6AEB1020V           5200.000      3000.000      0        Resistor                                                                                                                                               
+R3         ERA-6APB222V       TopLayer ERA6AEB1020V           4515.000      2700.000      0        Resistor                                                                                                                                               
+R2         ERA-6APB222V       TopLayer ERA6AEB1020V           4510.000      2975.000      0        Resistor                                                                                                                                               
+R1         ERA-6APB222V       TopLayer ERA6AEB1020V           4770.000      2990.000      0        Resistor                                                                                                                                               
+R6         ERA-6APB222V       TopLayer ERA6AEB1020V           5222.598      2825.000      0        Resistor                                                                                                                                               
+R7         ERA-6APB222V       TopLayer ERA6AEB1020V           5112.598      2640.000      0        Resistor                                                                                                                                               
+PS1        RLS-126            TopLayer RLS126                 4700.000      2375.000      180      "Power Supply"                                                                                                                                         
+U4         R-78CK5.0-0.5      TopLayer R78CK5005              4280.000      1800.000      0        "Power Supply"                                                                                                                                         
+J7         694106301002       TopLayer 694106301002_1         4278.937      2289.488      0        Connector                                                                                                                                              
+J5         B8B-XH-A           TopLayer JST_B8B-XH-A           5897.362      2875.000      180      "Connector Header Through Hole 8 position 0.098 (2.50mm)"                                                                                              
+J4         B4B-EH-A           TopLayer JST_B4B-EH-A           5030.266      3160.000      180      "Connector Header Through Hole 4 position 0.098 (2.50mm)"                                                                                              
+J3         B6B-XH-A(LF)(SN)   TopLayer JST_B6B-XH-A(LF)(SN)   5438.937      1780.000      180      "Connector Header Through Hole 6 position 0.098 (2.50mm)"                                                                                              
+J2         B4B-EH-A           TopLayer JST_B4B-EH-A           4482.638      3160.000      180      "Connector Header Through Hole 4 position 0.098 (2.50mm)"                                                                                              
+J1         B8B-XH-A           TopLayer JST_B8B-XH-A           5789.213      3150.000      180      "Connector Header Through Hole 8 position 0.098 (2.50mm)"                                                                                              
+U3         TCA9548APWR        TopLayer SOP65P640X120-24N      4829.331      2731.614      0        "Integrated Circuit"                                                                                                                                   
